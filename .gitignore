@@ -1,0 +1,22 @@
+# IDE files
+.idea/
+.gigaide/
+.smarttomcat/
+*.iml
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Test files
+src/test/
+
+# Compiled files
+target/
+*.class
+*.war
+
+# Maven
+.mvn/
+mvnw
+mvnw.cmd
